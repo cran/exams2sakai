@@ -1,6 +1,6 @@
 Package: exams2sakai
 Title: Automatic Generation of Exams in R for 'Sakai'
-Version: 0.3
+Version: 0.4
 Authors@R: c(
 	person(given = "Fuensanta",
            family = "Arnaldos García",
@@ -56,7 +56,7 @@ Authors@R: c(
            role = "ctb",
            comment = c(ORCID = "0000-0003-0918-3766")))
 Description: Automatic Generation of Exams in R for 'Sakai'.
-  Question templates in the form of the 'exams' package (see <http://www.r-exams.org/>)
+  Question templates in the form of the 'exams' package (see <https://www.r-exams.org/>)
   are transformed into XML format required by 'Sakai'.
 License: GPL-2 | GPL-3
 Depends: R (>= 3.4.0), exams (>= 2.3-6)
@@ -68,7 +68,7 @@ BugReports: https://github.com/jesusmmp/exams2sakai/issues
 Encoding: UTF-8
 RoxygenNote: 7.1.0
 NeedsCompilation: no
-Packaged: 2021-04-22 08:46:16 UTC; jesusmmp
+Packaged: 2024-09-02 19:03:29 UTC; jesusmmp
 Author: Fuensanta Arnaldos García [aut],
   María Victoria Caballero Pintado [aut],
   Úrsula Faura Martínez [aut],
@@ -84,4 +84,4 @@ Author: Fuensanta Arnaldos García [aut],
   Achim Zeileis [ctb] (<https://orcid.org/0000-0003-0918-3766>)
 Maintainer: Jesús María Méndez Pérez <jesus.mendez@ticarum.es>
 Repository: CRAN
-Date/Publication: 2021-04-22 09:10:03 UTC
+Date/Publication: 2024-09-02 20:30:02 UTC
